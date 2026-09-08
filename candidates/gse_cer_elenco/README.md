@@ -63,7 +63,7 @@ Modello a Concentrazione di Potenza (Basilicata, Molise): pochi impianti ma di g
 Modello Ibrido (Piemonte): elevata presenza capillare combinata con una capacità produttiva medio-alta per singolo impianto (~130 kW/impianto), che ne fa la regione leader per potenza complessiva installata.
 
  **Dashboard Interattiva:**  
- https://starterdataworks.github.io/dataset-incubator/dataset-incubator/mart/quadro_generale_cer_2x2.html)
+ https://starterdataworks.github.io/dataset-incubator/candidates/gse_cer_elenco/mart/quadro_generale_cer_2x2.html)
 
 4. Segmentazione per Fasce di Taglia: Capillarità vs Potenza
 
@@ -81,7 +81,7 @@ Dall'analisi per fasce di potenza emerge un doppio binario nello sviluppo delle 
   Piemonte,Basilicata e Molise mostrano una presenza marcata nelle fasce Medie e Grandi, spiegando il motivo per cui accumulano così tanti kW totali nonostante un numero inferiore o paragonabile di impianti.  
 
  **Grafico Interattivo:**  
- https://starterdataworks.github.io/dataset-incubator/dataset-incubator/mart/fasce_potenza_per_regione.html)  
+ https://starterdataworks.github.io/dataset-incubator/candidates/gse_cer_elenco/mart/fasce_potenza_per_regione.html)  
 
 5. Densità e Capillarità Territoriale: Hub Provinciali e Comunali
 
@@ -96,7 +96,7 @@ L'analisi della distribuzione a livello locale evidenzia due modelli di diffusio
     Seguono altri poli comunali rilevanti come Pedara (15), Lamezia Terme (12), Siracusa (12) e la cuneese Neive (11). 
     
  **Grafico Interattivo:**  
-[https://starterdataworks.github.io/dataset-incubator/dataset-incubator/mart/densita_province_comuni.html)
+[https://starterdataworks.github.io/dataset-incubator/candidates/gse_cer_elenco/mart/densita_province_comuni.html)
 
 6. Modelli Partecipativi: Frammentazione Legale vs Comunità Sociali
 
@@ -121,4 +121,4 @@ L'analisi evidenzia come i soli dati su numero e potenza non siano sufficienti a
     Dati Mancanti: Il dataset non traccia l'anno di installazione dei singoli pannelli né le specifiche tecniche del mix energetico (es. presenza di accumuli o integrazione con biomasse/idroelettrico).
 
  **Mappa Geografica Interattiva:**  
- https://starterdataworks.github.io/dataset-incubator/dataset-incubator/mart/  mappa_cer_interattiva.html)
+ https://starterdataworks.github.io/dataset-incubator/candidates/gse_cer_elenco/mart/  mappa_cer_interattiva.html)
